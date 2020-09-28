@@ -2,7 +2,7 @@
 Drawing helper for shapes and shades.
 
 ## [Live Demo](https://shape-n-shade.vercel.app/)
-## [![App](https://github.com/IvanDimanov/shape-n-shade/master/image.png)](https://shape-n-shade.vercel.app/)
+## [![App](https://github.com/IvanDimanov/shape-n-shade/raw/master/image.png)](https://shape-n-shade.vercel.app/)
 
 
 ## Tech stack
